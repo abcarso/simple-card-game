@@ -1,0 +1,10 @@
+If you attempted to solve any of the extra credit challenges, please add this txt file to your submission.
+
+Briefly comment on which challenge(s) you attempted to solve and how you solved them. 1-2 sentences per challenge is sufficient. We just need to know what to look out for.
+
+
+Challenge 1:
+I made all values relating to the maximum size of the hand a variable. The value for the variable is chosen using cin and user input.
+
+Challenge 2:
+I used a while loop to repeat the game until the player chooses not to continue. I also made variables to store the number of wins, losses, and total points, and a vector to hold the number of points won in each specific round.
